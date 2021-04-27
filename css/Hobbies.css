@@ -1,0 +1,10 @@
+h1{
+    color: cornflowerblue;
+}
+ol{
+    font-size: 25px;
+        color: cornflowerblue;
+}
+ol :hover{
+    color: #2980b9;
+}
